@@ -1,0 +1,27 @@
+{
+	"name": "zepeto.multiplay",
+	"scope": "zepeto",
+	"displayName": "ZEPETO.Multiplay",
+	"version": "1.4.2",
+	"unity": "2020.3",
+	"description": "ZEPETO Multiplay",
+	"keywords": [
+		"zepeto",
+		"multiplay"
+	],
+	"samples": [
+		{
+			"displayName": "Examples",
+			"description": "A bunch of examples using the Zepeto Script API.",
+			"path": "./examples~"
+		}
+	],
+	"category": "Unity",
+	"hideInEditor": false,
+	"author": {
+		"name": "ZEPETO",
+		"email": "support@zepeto.me",
+		"url": "https://zepeto.me/"
+	},
+	"commitId": "38136bbbf29d349111dcea2669536a0068463ce8"
+}
